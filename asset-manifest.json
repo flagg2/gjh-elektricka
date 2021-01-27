@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gjh-elektricka/static/css/main.660dd8c3.chunk.css",
+    "main.css": "/gjh-elektricka/static/css/main.ee3a27a9.chunk.css",
     "main.js": "/gjh-elektricka/static/js/main.9e8805b5.chunk.js",
     "main.js.map": "/gjh-elektricka/static/js/main.9e8805b5.chunk.js.map",
     "runtime-main.js": "/gjh-elektricka/static/js/runtime-main.6d0954e2.js",
@@ -10,14 +10,14 @@
     "static/js/3.9fbb1d22.chunk.js": "/gjh-elektricka/static/js/3.9fbb1d22.chunk.js",
     "static/js/3.9fbb1d22.chunk.js.map": "/gjh-elektricka/static/js/3.9fbb1d22.chunk.js.map",
     "index.html": "/gjh-elektricka/index.html",
-    "static/css/main.660dd8c3.chunk.css.map": "/gjh-elektricka/static/css/main.660dd8c3.chunk.css.map",
+    "static/css/main.ee3a27a9.chunk.css.map": "/gjh-elektricka/static/css/main.ee3a27a9.chunk.css.map",
     "static/js/2.fbeb8f1f.chunk.js.LICENSE.txt": "/gjh-elektricka/static/js/2.fbeb8f1f.chunk.js.LICENSE.txt",
     "static/media/input.f72635aa.txt": "/gjh-elektricka/static/media/input.f72635aa.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6d0954e2.js",
     "static/js/2.fbeb8f1f.chunk.js",
-    "static/css/main.660dd8c3.chunk.css",
+    "static/css/main.ee3a27a9.chunk.css",
     "static/js/main.9e8805b5.chunk.js"
   ]
 }
